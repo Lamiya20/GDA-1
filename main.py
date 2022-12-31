@@ -13,7 +13,7 @@ from matplotlib.figure import Figure
 import pandas as pd
 import sys
 
-
+#New change
 #Create the canvas in the PyQT for the plot/map
 class MplCanvas(FigureCanvasQTAgg):
 
