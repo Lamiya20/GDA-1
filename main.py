@@ -14,6 +14,7 @@ import pandas as pd
 import sys
 
 #New change
+#New change 2
 #Create the canvas in the PyQT for the plot/map
 class MplCanvas(FigureCanvasQTAgg):
 
