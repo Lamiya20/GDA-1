@@ -15,6 +15,8 @@ import sys
 
 #New change
 #New change 2
+#New change 3
+#New change 4
 #Create the canvas in the PyQT for the plot/map
 class MplCanvas(FigureCanvasQTAgg):
 
